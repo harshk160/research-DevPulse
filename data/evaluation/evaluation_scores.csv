@@ -1,0 +1,73 @@
+trial_id,repo,question_id,system,correctness,groundedness,category,note
+httpx_q01_baseline,httpx,q01,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q01_rag,httpx,q01,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q02_baseline,httpx,q02,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q02_rag,httpx,q02,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q03_baseline,httpx,q03,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q03_rag,httpx,q03,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q04_baseline,httpx,q04,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q04_rag,httpx,q04,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q05_baseline,httpx,q05,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q05_rag,httpx,q05,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q06_baseline,httpx,q06,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q06_rag,httpx,q06,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q07_baseline,httpx,q07,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q07_rag,httpx,q07,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q08_baseline,httpx,q08,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q08_rag,httpx,q08,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q09_baseline,httpx,q09,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q09_rag,httpx,q09,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q10_baseline,httpx,q10,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q10_rag,httpx,q10,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q11_baseline,httpx,q11,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q11_rag,httpx,q11,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+httpx_q12_baseline,httpx,q12,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+httpx_q12_rag,httpx,q12,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q01_baseline,flask,q01,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q01_rag,flask,q01,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q02_baseline,flask,q02,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q02_rag,flask,q02,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q03_baseline,flask,q03,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q03_rag,flask,q03,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q04_baseline,flask,q04,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q04_rag,flask,q04,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q05_baseline,flask,q05,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q05_rag,flask,q05,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q06_baseline,flask,q06,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q06_rag,flask,q06,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q07_baseline,flask,q07,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q07_rag,flask,q07,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q08_baseline,flask,q08,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q08_rag,flask,q08,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q09_baseline,flask,q09,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q09_rag,flask,q09,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q10_baseline,flask,q10,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q10_rag,flask,q10,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q11_baseline,flask,q11,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q11_rag,flask,q11,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+flask_q12_baseline,flask,q12,baseline,4,3,correct_answer,"Factually accurate (model has strong memorized knowledge of this famous library), but not epistemically grounded -- generic/hedged framing, not tied to verifiable given context."
+flask_q12_rag,flask,q12,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q01_baseline,algorithms,q01,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q01_rag,algorithms,q01,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q02_baseline,algorithms,q02,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q02_rag,algorithms,q02,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q03_baseline,algorithms,q03,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q03_rag,algorithms,q03,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q04_baseline,algorithms,q04,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q04_rag,algorithms,q04,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q05_baseline,algorithms,q05,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q05_rag,algorithms,q05,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q06_baseline,algorithms,q06,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q06_rag,algorithms,q06,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q07_baseline,algorithms,q07,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q07_rag,algorithms,q07,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q08_baseline,algorithms,q08,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q08_rag,algorithms,q08,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q09_baseline,algorithms,q09,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q09_rag,algorithms,q09,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q10_baseline,algorithms,q10,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q10_rag,algorithms,q10,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q11_baseline,algorithms,q11,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q11_rag,algorithms,q11,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
+algorithms_q12_baseline,algorithms,q12,baseline,2,2,hallucination,"Generic, hedged (""such as X or Y""); cites plausible but unverified/likely-mismatched file or function names for this specific scoped ingest."
+algorithms_q12_rag,algorithms,q12,rag,5,5,correct_answer,Cites specific real file paths/functions matching verified repo structure; no fabrication observed.
