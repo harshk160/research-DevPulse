@@ -1,0 +1,5 @@
+tree-sitter
+tree-sitter-python
+google-genai
+chromadb
+tenacity

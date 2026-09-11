@@ -1,0 +1,13 @@
+# Vector DB (regenerate with src/build_vector_db.py — don't commit binary index files)
+chroma_data/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
